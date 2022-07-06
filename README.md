@@ -1,1 +1,1 @@
-# Sentiment_Analysis_Lexicon_Models
+# Two lexicon-based sentiment analyzers: TextBlob and Vader
