@@ -20,3 +20,9 @@ Subjectivity, on the other hand, refers to how objective or subjective a text is
 
 &#8594; While Vader is tailored for sentiments on social media, Textblob performs better with more formal language usage.
 - - - 
+&#8594; The notebook addresses the sentiment analysis of the restaurant reviews from YELP dataset using the two lexicon-based sentiment analyzers mentioned above: TextBlob and Vader.
+> - Tasks:
+>     - Preprocessing
+>     - Sentiment Analysis with TextBlob 
+>     - Sentiment Analysis with Vader 
+>     - Conclusions
