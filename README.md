@@ -23,6 +23,6 @@ Subjectivity, on the other hand, refers to how objective or subjective a text is
 &#8594; The notebook addresses the sentiment analysis of the restaurant reviews from YELP dataset using the two lexicon-based sentiment analyzers mentioned above: TextBlob and Vader.
 > - Tasks:
 >     - Preprocessing
->     - Sentiment Analysis with TextBlob 
->     - Sentiment Analysis with Vader 
->     - Conclusions
+>     - Sentiment Analysis with TextBlob (including computing the top 20 most common words in both positive and negative reviews) with comments/conclusions
+>     - Sentiment Analysis with Vader with comments/conclusions
+>     - Final conclusions: compare the performance of both sentiment analyzers
