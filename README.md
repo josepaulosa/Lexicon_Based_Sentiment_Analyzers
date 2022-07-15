@@ -28,4 +28,4 @@ Subjectivity, on the other hand, refers to how objective or subjective a text is
 >     - Final conclusions: compare the performance of both sentiment analyzers
 
 - - - 
-- You can find the 2 **datasets** regarding Road Safety Data 2020 in UK with which I created a **database** with **2 tables** [here](https://data.gov.uk/dataset/cb7ae6f0-4be6-4935-9277-47e5ce24a11f/road-safety-data)
+- The two datasets (review and business) that we need from YELP dataset can be found [here](https://data.gov.uk/dataset/cb7ae6f0-4be6-4935-9277-47e5ce24a11f/road-safety-data)
