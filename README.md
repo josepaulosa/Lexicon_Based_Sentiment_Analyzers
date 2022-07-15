@@ -26,3 +26,6 @@ Subjectivity, on the other hand, refers to how objective or subjective a text is
 >     - Sentiment Analysis with TextBlob (including computing the top 20 most common words in positive reviews and in negative reviews) with comments/conclusions
 >     - Sentiment Analysis with Vader with comments/conclusions
 >     - Final conclusions: compare the performance of both sentiment analyzers
+
+- - - 
+- You can find the 2 **datasets** regarding Road Safety Data 2020 in UK with which I created a **database** with **2 tables** [here](https://data.gov.uk/dataset/cb7ae6f0-4be6-4935-9277-47e5ce24a11f/road-safety-data)
