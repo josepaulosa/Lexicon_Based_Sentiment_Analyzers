@@ -31,4 +31,4 @@ Subjectivity, on the other hand, refers to how objective or subjective a text is
 
 - - - 
 - **The two datasets (review and business) that we need from YELP dataset can be found** → [here](https://www.yelp.com/dataset)
-- For an interactive preview &rarr; [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/josepaulosa/Lexicon_Based_Sentiment_Analyzers/blob/main/Lex_Based_Sent_Analyzers.ipynb)
+- For an **interactive preview** &rarr; [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/josepaulosa/Lexicon_Based_Sentiment_Analyzers/blob/main/Lex_Based_Sent_Analyzers.ipynb)
